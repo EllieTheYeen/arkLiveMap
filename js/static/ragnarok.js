@@ -1,4 +1,4 @@
-var mapfile = '/images/ragnarok.jpg';
+var mapfile = 'images/ragnarok.jpg';
 var bounds = [
   [-5, -5],
   [105, 105]

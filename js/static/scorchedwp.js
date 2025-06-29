@@ -1,4 +1,4 @@
-var mapfile = '/images/scorched.jpg';
+var mapfile = 'images/scorched.jpg';
 var bounds = [
   [-5, -5],
   [105, 105]

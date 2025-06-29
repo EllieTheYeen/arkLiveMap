@@ -1,4 +1,4 @@
-var mapfile = '/images/TheIsland_WP.jpg';
+var mapfile = 'images/TheIsland_WP.jpg';
 var bounds = [
   [7, 7],
   [93, 93]

@@ -1,4 +1,4 @@
-var mapfile = '/images/island.jpg';
+var mapfile = 'images/island.jpg';
 var bounds = [
   [-5, -5],
   [105, 105]

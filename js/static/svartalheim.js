@@ -1,4 +1,4 @@
-var mapfile = '/images/svartalheim.jpg';
+var mapfile = 'images/svartalheim.jpg';
 var bounds = [
   [-0.3, -1.5],
   [101.5, 99.3]
