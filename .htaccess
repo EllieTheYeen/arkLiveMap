@@ -1,0 +1,10 @@
+# These might need to be in the actual apache2.4 or later config
+#ProxyPass         /arkmapws  "ws://127.0.0.1:7593/"
+#ProxyPassReverse  /arkmapws  "ws://127.0.0.1:7593/"
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule arkmaplast.js arkmaplast.php?js=true [QSA,L]
+RewriteRule arkmaplast arkmaplast.php [QSA,L]
